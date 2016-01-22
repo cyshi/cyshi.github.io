@@ -22,8 +22,8 @@ description: "A free Jekyll theme for download"
 keywords: "Jekyll, theme, free, download, SEO, blog, web"
 
 # Site settings
-url: http://nandomoreira.me
-baseurl: "/dotX"
+url: http://cyshi.github.io
+baseurl: "/"
 # baseurl: ""
 
 # Author settings
@@ -32,9 +32,9 @@ author:
   job       : Frontend Engineer
   bio       : "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
   thumb     : /images/author.jpg
-  email     : nandomoreira.me@gmail.com
-  url       : http://nandomoreira.me
-  github    : http://github.com/nandomoreirame
+  email     : wbstsa@gmail.com
+  url       : http://cyshi.github.io
+  github    : http://github.com/cyshi
   twitter   : http://twitter.com/nandomoreirame
   facebook  : http://facebook.com/fernando.dev
   linkedin  : http://linkedin.com/in/nandomoreirame
