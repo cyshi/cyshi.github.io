@@ -23,8 +23,8 @@ keywords: "Jekyll, theme, free, download, SEO, blog, web"
 
 # Site settings
 url: http://cyshi.github.io
-baseurl: "/"
-# baseurl: ""
+#baseurl: "/"
+baseurl: ""
 
 # Author settings
 author:
@@ -40,7 +40,7 @@ author:
   linkedin  : http://linkedin.com/in/nandomoreirame
 
 # google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/dotX
+repo: http://github.com/cyshi/cyshi.github.io
 
 # comments
 disqus_shortname: "fernandomoreira"
